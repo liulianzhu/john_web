@@ -1,0 +1,495 @@
+.products-box {
+	margin-top: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.clearfix {
+	clear: both;
+}
+
+@media (min-width: 1600px) {
+ .container {
+ width: 1570px;
+}
+}
+
+.sub_nav h3 {
+	font-family: 'Futura LT Book';
+	font-size: 2.4rem;
+	color: #424242;
+	text-transform: uppercase;
+}
+
+.sidenavcur {
+	margin-top: 30px;
+}
+
+.sidenavcur dt.inactive {
+	background: url("/ME313/webapp/Me/images/arrow_down.png") no-repeat top 20px right 30px #54b689;
+}
+.sidenavcur dt.inactives {
+	background: url("/ME313/webapp/Me/images/arrow_up.png") no-repeat top 20px right 30px #000;
+}
+
+.sidenavcur dd {
+	padding: 0 30px;
+	margin-top: 15px;
+}
+
+.sidenavcur dd a {
+	font-family: 'Futura LT Book';
+	background: url("/ME313/webapp/Me/images/icon-square.png") no-repeat left center;
+	padding-left: 8px;
+	font-size: 1.6rem;
+	color: #626262;
+}
+.sidenavcur dd a:hover {
+	color: #000;
+}
+
+.sidenavcur dt {
+	background-color: #19110b;
+	border-radius: 30px;
+}
+.sidenavcur dt a {
+	font-family: 'Futura LT Book';
+	font-size: 1.5rem;
+	color: #fff;
+	display: block;
+	padding: 10px 30px;
+	font-weight: normal;
+}
+
+.download {
+	margin-top: 120px;
+	border-top: 1px #ebebeb solid;
+	padding-top: 35px;
+}
+.download a {
+	font-family: 'Futura LT Book';
+	display: block;
+	padding: 15px 30px;
+	background-color: #19110b;
+	border-radius: 30px;
+	font-size: 2rem;
+	color: #fff;
+}
+.download a img {
+	vertical-align: middle;
+	float: right;
+}
+
+.crumbs .pull-right .crumbs-box {
+ text-align: left;
+ margin-top: 15px;
+}
+
+.video-box .pull-right img {
+	position: absolute;
+	top: 15px;
+	right: 0;
+	display: none;
+}
+
+.video-list li:hover .video-box .pull-right img {
+	display: block;
+ -webkit-transition: all ease .5s;
+ -moz-transition: all ease .5s;
+ -ms-transition: all ease .5s;
+ -o-transition: all ease .5s;
+ transition: all ease .5s;
+}
+
+.crumbs .pull-right .crumbs-box {
+ text-align: left;
+ margin-top: 15px;
+}
+
+.goods-search-box {
+	padding: 0 25px;
+	position: relative;
+	height: 50px;
+	line-height: 50px;
+}
+.goods-search {
+	height: 50px;
+	line-height: 50px;
+	border: 1px #edebe8 solid;
+}
+.goods-search-box input {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 50px;
+	box-sizing: border-box;
+	z-index: 2;
+	font-size: 1.6rem;
+	background-color: transparent;
+	color: #777573;
+}
+.goods-search .search-box {
+	position: absolute;
+	top: -3px;
+	left: 20px;
+}
+
+.goods-search {
+ margin-top: 30px;
+}
+
+.header2 .m-search-box {
+	width: 92%;
+	border: 1px solid #aaa;
+	position: fixed;
+	left: 3%;
+	top: 20%;
+	height: 45px;
+	z-index: 11;
+	display: none;
+}
+
+.goods-list li {
+	text-align: center;
+	margin-top: 70px;
+}
+.goods-list li .pic {
+	border-bottom: 1px #d8d8d8 solid;
+	padding-bottom: 55px;
+	position: relative;
+	overflow: hidden;
+}
+.goods-list li .pic img {
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+.goods-list h3 a {
+	font-family: 'Futura LT Book';
+	font-size: 2rem;
+	color: #000;
+	display: block;
+	margin-top: 35px;
+}
+.goods-list li .pic:before {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 1px;
+	background-color: #c5c5c5;
+	left: 0;
+	-webkit-transform: rotate(0deg) scale(1) translate(-100%, 0%);
+	-ms-transform: rotate(0deg) scale(1) translate(-100%, 0%);
+	transform: rotate(0deg) scale(1) translate(-100%, 0%);
+	transition: all 0.5s ease;
+}
+.goods-list li:hover .pic:before {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 4px;
+	background: #1a1a1a;
+	transform: rotate(0deg) scale(1) translate(0%, 0%);
+	-ms-transform: rotate(0deg) scale(1) translate(0%, 0%);
+	-o-transform: rotate(0deg) scale(1) translate(0%, 0%);
+	-moz-transform: rotate(0deg) scale(1) translate(0%, 0%);
+	-webkit-transform: rotate(0deg) scale(1) translate(0%, 0%);
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+}
+.goods-list li:hover .pic img {
+	-moz-transform: scale(0.85);
+	-webkit-transform: scale(0.85);
+	transform: scale(0.85);
+ transition: all .6s;
+ -moz-transition: all .6s;
+ -webkit-transition: all .6s;
+}
+.goods-list li:hover h3 a {
+	color: #626262;
+}
+
+.recommend dd .pic {
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.recommend dd .pic img {
+	width: 100%;
+	margin: auto;
+	display: block;
+}
+.recommend dd .pic a:hover img {
+	-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+	transform: scale(1.07);
+ transition: all .6s;
+ -moz-transition: all .6s;
+ -webkit-transition: all .6s;
+}
+
+.likebox .swiper-slide .pic {
+	overflow: hidden;
+}
+.likebox .swiper-slide:hover .pic img {
+	transform: scale(1.25);
+	-moz-transform: scale(1.25);
+	-webkit-transform: scale(1.25);
+ transition: all .6s;
+ -moz-transition: all .6s;
+ -webkit-transition: all .6s;
+}
+
+.viewed-list li .pic {
+	overflow: hidden;
+}
+
+.s1-list li .messages .pic {
+	width: 210px;
+}
+.s1-list li .messages .pic img {
+	width: 100%;
+}
+
+@media (max-width: 1024px) {
+ .s1-list li .messages .pic {
+ display: none;
+}
+
+.pro-list li .pic {
+ overflow: hidden;
+ height: auto;
+}
+
+.productbox li .pic {
+ overflow: hidden;
+ margin-bottom: 40px;
+}
+
+.productbox li .pic {
+ overflow: hidden;
+ margin-bottom: 30px;
+}
+
+@media (max-width: 320px) {
+ .productbox li .pic {
+ overflow: hidden;
+ margin-bottom: 30px;
+}
+
+.page-tit h3 {
+	font-family: 'Futura LT Book';
+	font-size: 3.4rem;
+	color: #19110b;
+}
+.page-tit p {
+	font-family: 'Futura LT Book';
+	font-size: 1.4rem;
+	color: #888;
+	margin: 25px 0;
+}
+.page-tit p span img {
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.page-tit p span {
+	margin: 0 20px;
+}
+.page_info .text p {
+	font-family: 'Futura LT Book';
+	font-size: 1.7rem;
+	color: #777573;
+	line-height: 36px;
+	margin-top: 40px;
+}
+.page_info .text p img {
+	max-width: 100%;
+	margin: auto;
+	text-align: center;
+}
+.news_pager {
+	width: 100%;
+	line-height: 58px;
+	border: 1px #e1e1e1 solid;
+	color: #999;
+	text-align: center;
+	margin-top: 80px;
+	overflow: hidden;
+	padding: 0 30px;
+	border-left: none;
+	border-right: none;
+}
+.news_pager p {
+	font-size: 1.6rem;
+	color: #000;
+}
+.news_pager p a {
+	color: #666;
+}
+.news_pager p a:hover {
+	color: #cc0e17;
+	text-decoration: underline;
+}
+/*分页*/
+
+.page {
+	margin-top: 115px;
+}
+.page li {
+	display: inline-block;
+	text-align: center;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 2px;
+	margin-bottom: 10px;
+}
+.page li:first-child a i {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	border-top: 2px solid #cbcedd;
+	border-left: 2px solid #cbcedd;
+	margin: 12px auto 0 7px;
+}
+.page li:last-child a {
+	border-right: 1px #e5eaed solid;
+}
+.page li:last-child a i {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	transform: rotate(-225deg);
+	-webkit-transform: rotate(-225deg);
+	border-top: 2px solid #cbcedd;
+	border-left: 2px solid #cbcedd;
+	margin: 12px auto 0 -2px;
+}
+.page li:first-child a:hover i {
+	border-top: 2px solid #000;
+	border-left: 2px solid #000;
+}
+.page li:last-child a:hover i {
+	border-top: 2px solid #000;
+	border-left: 2px solid #000;
+}
+.page li a {
+	font-size: 1.4rem;
+	color: #76828e;
+	border: 1px #e5eaed solid;
+	/*border-right: 0;*/
+    width: 40px;
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+}
+.page li a.active {
+	color: #fff;
+	background-color: #140e09;
+}
+.page li a:hover {
+	color: #fff;
+	background-color: #140e09;
+}
+.page li:first-child a:hover {
+	background: none;
+}
+.page li:last-child a:hover {
+	background: none;
+}
+.page li img {
+	margin-top: 10px;
+}
+
+.news_pager .fr {
+ float: left;
+}
+
+.page {
+ margin-top: 40px;
+}
+
+.page-tit p span {
+ margin-bottom: 10px;
+ display: inline-block;
+}
+ .page-tit h3 {
+ font-family: 'Futura LT Book';
+ font-size: 3rem;
+ color: #19110b;
+}
+ .news_pager {
+ padding: 10px 0;
+ line-height: 40px;
+}
+
+.navigation-desktop-menu a:hover, .navigation-desktop-menu a.active {
+	border-bottom: none;
+	background-color: transparent;
+}
+.navigation-desktop-menu a:hover i, .navigation-desktop-menu a.active i {
+	left: 0;
+	right: 0;
+}
+
+.has-sub-menu a:hover, .has-sub-menu a.active {
+	border-bottom: none;
+	background-color: transparent;
+}
+.has-sub-menu a:hover i, .has-sub-menu a.active i {
+	left: 0;
+	right: 0;
+}
+
+.sub-menu-active {
+	display: block
+}
+
+.header2 .nav-btn.active {
+	-webkit-animation: rotate 0.5s linear 0s;
+	animation: rotate 0.5s linear 0s;
+}
+
+.newsscroll .swiper-pagination-bullet-active {
+	width: 14px;
+	opacity: 1;
+	background: #fff
+}
+
+.newslist .swiper-pagination-bullet-active {
+	width: 14px;
+	opacity: 1;
+	background: #fff
+}
+
+.storebox .swiper-pagination-bullet-active {
+ opacity: 1;
+ background: #000
+}
+
+.sidenavcur dt a {
+    font-family: 'Futura LT Book';
+    font-size: 1.8rem;
+    color: #fff;
+    display: block;
+    padding: 10px 30px;
+    font-weight: normal;
+}
+
+a:link, a:visited {
+    outline: none;
+    text-decoration: none;
+}
+
