@@ -7,13 +7,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="keywords" content="EAS,Hard Tag,Pencil Tag,Ink Tag,Slipper Tag,Bottle Tag,Optical Tag,Other Tags,Alarming Tag ">
 <meta id="meta-description" name="description" content="Wenzhou Aike Technology Co., Ltd. founded in 1999, had been an EAS tag manufacturer for 18 years. In 2017, we started manufacturing EAS alarm solutions, including spiders and cable locks. In 2019 we started new business EAS+RFID, as RFID is the new trend. Until 2023, EAS+RFID has occupies 58% business shares.tel：+86-18358585167">
-<link rel="shortcut icon" href="/ME313/webapp/Me/images/ECO.jpg"><!--logo  kb.jpg-->
-<link rel="stylesheet" type="text/css" href="/ME313/webapp/Me/style/pc/styles/default/merge_v2.css?v=1703227203200">
+<link rel="shortcut icon" href="../Me/images/ECO.jpg"><!--logo  kb.jpg-->
+<link rel="stylesheet" type="text/css" href="../Me/style/pc/styles/default/merge_v2.css?v=1703227203200">
 <style>
 body{font-family:"Microsoft Yahei","PingHei","Lucida Grande","Lucida Sans Unicode";}
 
 </style>
-<link rel="stylesheet" type="text/css" href="/ME313/webapp/Me/style/10461/index/index_pc.css?hash=-1074434678">
+<link rel="stylesheet" type="text/css" href="../Me/style/10461/index/index_pc.css?hash=-1074434678">
 <style id="styleContent" data-laymodlinklist="8"></style>
 <style id="mobiStyleModule1018923"></style><style id="mobiStyleModule1018948"></style>
 <style id="mobiStyleModule1018888"></style>
@@ -35,9 +35,9 @@ var _hmt = _hmt || [];
 <style type="text/css" id="fontlib">
 
 </style>
-<link href="/ME313/webapp/Me/wechat/upload/swiper.min.css" rel="stylesheet" defer="defer">
-<link href="/ME313/webapp/Me/wechat/upload/swiper.lxk.css" rel="stylesheet" defer="defer">
-<link href="/ME313/webapp/Me/wechat/upload/swiper.min.css" rel="stylesheet" defer="defer"></head>
+<link href="../Me/wechat/upload/swiper.min.css" rel="stylesheet" defer="defer">
+<link href="../Me/wechat/upload/swiper.lxk.css" rel="stylesheet" defer="defer">
+<link href="../Me/wechat/upload/swiper.min.css" rel="stylesheet" defer="defer"></head>
 <body id="g_body" data-auth="" class="">
 	<div id="app-head"></div>
 	<!-- 网站版本信息：v4 -->
@@ -53,7 +53,7 @@ var _hmt = _hmt || [];
       <div class="uplogo hidden-xs hidden-sm">
         <div class="container">
           <div class="up_logo"><!--gsxx.jpg-->
-            <a class="logo" href="index.jsp" title="AIKE TECHNOLOGY"><img src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
+            <a class="logo" href="index.jsp" title="AIKE TECHNOLOGY"><img src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
           </div>
           <!-- PC顶部联系方式 -->
           <div class="nav_contact ">
@@ -102,7 +102,7 @@ var _hmt = _hmt || [];
           <div class="nav_search">
             <i class="nav_click iconfont"></i>
             <div class="nav_search_list search_wrap">
-              <input id="search_input2" list="datalist_sreach2" type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="搜索">
+              <input id="search_input2" list="datalist_sreach2" type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="search">
               <datalist id="datalist_sreach2"  >
                 <option >Hard Tag</option>
                 <option >Pencil Tag</option>
@@ -118,7 +118,7 @@ var _hmt = _hmt || [];
                 <option >RFID Hard Tag</option>
                 <option >RFID Alarming Tag</option>
               </datalist>
-              <a class="search_btn" href="javascript:sreachOnclic('search_input2');">搜索</a>
+              <a class="search_btn" href="javascript:sreachOnclic('search_input2');">search</a>
               <span></span>
             </div>
           </div>
@@ -137,13 +137,13 @@ var _hmt = _hmt || [];
           </div>
         </a>
         <!-- 手机logo -->
-        <a class="logo" href="index.jsp"><img src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a> <!--gsxx.jpg-->
+        <a class="logo" href="index.jsp"><img src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a> <!--gsxx.jpg-->
         <div class="nav_search ">
             <i class="nav_click iconfont"></i>
         </div>
         <!-- 手机搜索框打开关闭按钮 -->
         <div class="nav_search_list search_wrap">
-            <input id="search_input3" list="datalist_sreach3"  type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="搜索">
+            <input id="search_input3" list="datalist_sreach3"  type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="search">
             <datalist id="datalist_sreach3"  >
               <option >Hard Tag</option>
               <option >Pencil Tag</option>
@@ -159,7 +159,7 @@ var _hmt = _hmt || [];
               <option >RFID Hard Tag</option>
               <option >RFID Alarming Tag</option>
             </datalist>
-            <a class="search_btn" href="javascript:sreachOnclic('search_input3');">搜索</a>
+            <a class="search_btn" href="javascript:sreachOnclic('search_input3');">search</a>
         </div>
       </div>
     </div>
@@ -182,8 +182,8 @@ var _hmt = _hmt || [];
       <ul class="swiper-wrapper" style="transition-duration: 0ms;"><li class="Load swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 413px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
             <i style="display: none;"></i>
             <a href="product-531104-1.html?value=Hard_Tag">
-              <img class="hidden-xs" src="/ME313/webapp/Me/images/index/INVENTORY MGMT-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_1-->
-              <img class="visible-xs-block" src="/ME313/webapp/Me/images/index/INVENTORY MGMT-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_2-->
+              <img class="hidden-xs" src="../Me/images/index/INVENTORY MGMT-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_1-->
+              <img class="visible-xs-block" src="../Me/images/index/INVENTORY MGMT-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_2-->
               <div class="text container">
                 <div style="transition-delay: 0.1s;" class="title hide">
                   <i></i>
@@ -203,8 +203,8 @@ var _hmt = _hmt || [];
           <li class="Load swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 413px; opacity: 1; transform: translate3d(-413px, 0px, 0px); transition-duration: 0ms;">
             <i style="display: none;"></i>
             <a href="product-531104-1.html?value=Hard_Tag">
-              <img class="hidden-xs" src="/ME313/webapp/Me/images/index/LOSS PREVENTION-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_3-->
-              <img class="visible-xs-block" src="/ME313/webapp/Me/images/index/LOSS PREVENTION-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_4-->
+              <img class="hidden-xs" src="../Me/images/index/LOSS PREVENTION-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_3-->
+              <img class="visible-xs-block" src="../Me/images/index/LOSS PREVENTION-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_4-->
               <div class="text container">
                 <div style="transition-delay: 0.1s;" class="title hide">
                   <i></i>
@@ -224,8 +224,8 @@ var _hmt = _hmt || [];
           <li class="Load swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 413px; opacity: 1; transform: translate3d(-826px, 0px, 0px); transition-duration: 0ms;">
             <i style="display: none;"></i>
             <a href="product-531104-1.html?value=Hard_Tag">
-              <img class="hidden-xs" src="/ME313/webapp/Me/images/index/INVENTORY MGMT-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_1-->
-              <img class="visible-xs-block" src="/ME313/webapp/Me/images/index/INVENTORY MGMT-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_2-->
+              <img class="hidden-xs" src="../Me/images/index/INVENTORY MGMT-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_1-->
+              <img class="visible-xs-block" src="../Me/images/index/INVENTORY MGMT-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_2-->
               <div class="text container">
                 <div style="transition-delay: 0.1s;" class="title hide">
                   <i></i>
@@ -245,8 +245,8 @@ var _hmt = _hmt || [];
       <li class="Load swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 413px; opacity: 1; transform: translate3d(-1239px, 0px, 0px); transition-duration: 0ms;">
             <i style="display: none;"></i>
             <a href="product-detail-1239721.html">
-              <img class="hidden-xs" src="/ME313/webapp/Me/images/index/LOSS PREVENTION-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_3 -->
-              <img class="visible-xs-block" src="/ME313/webapp/Me/images/index/LOSS PREVENTION-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_4 -->
+              <img class="hidden-xs" src="../Me/images/index/LOSS PREVENTION-WIDE.jpg" alt="AIKE TECHNOLOGY"><!--img_3 -->
+              <img class="visible-xs-block" src="../Me/images/index/LOSS PREVENTION-SQUARE.jpg" alt="AIKE TECHNOLOGY"><!--img_4 -->
               <div class="text container">
                 <div style="transition-delay: 0.1s;" class="title hide">
                   <i></i>
@@ -281,7 +281,7 @@ var _hmt = _hmt || [];
 								<a href="product-531104-1.html?value=RFID_Hard_Tag" target="_self" title="RFID EAS TAG">
 									<div class="box">
 										<div class="cate_img">
-											<img src="/ME313/webapp/Me/images/RFID EAS TAG.jpg" border="0" alt="RFID EAS TAG"><!--product_1.jpg-->
+											<img src="../Me/images/RFID EAS TAG.jpg" border="0" alt="RFID EAS TAG"><!--product_1.jpg-->
 										</div>
 										<div class="cate_text">
 											<p class="cate_h1">
@@ -301,7 +301,7 @@ var _hmt = _hmt || [];
 								<a href="product-531104-1.html?value=Hard_Tag" target="_self" title="EAS">
 									<div class="box">
 										<div class="cate_img">
-											<img src="/ME313/webapp/Me/images/index_pro2.jpg" border="0" alt="EAS">
+											<img src="../Me/images/index_pro2.jpg" border="0" alt="EAS">
 										</div>
 										<div class="cate_text">
 											<p class="cate_h1">
@@ -338,7 +338,7 @@ var _hmt = _hmt || [];
                             <!-- 未构建树 -->
                           <li class="swiper-slide swiper-slide-active" style="width: 383px;">
                               <a class="pro-item pro-cate-531106" href="product-531104-1.html?value=Detacher" target="_self" title="Super Detacher">
-                              <div class="cate-pic"><img src="/ME313/webapp/Me/images/index/Detacher1.jpg" alt="Super Detacher"></div>
+                              <div class="cate-pic"><img src="../Me/images/index/Detacher1.jpg" alt="Super Detacher"></div>
                               <div class="cate-detail">
                                 <div class="cate-text">
                                   <h3 class="">PRODUCTS</h3>
@@ -354,7 +354,7 @@ var _hmt = _hmt || [];
                           </li>
                           <li class="swiper-slide swiper-slide-next" style="width: 383px;">
                               <a class="pro-item pro-cate-531103" href="product-531104-1.html?value=Alarming_Tag" target="_self" title="Alarming Pin">
-                              <div class="cate-pic"><img src="/ME313/webapp/Me/images/index/Alarming Pin.jpg" alt="Alarming Pin"></div>
+                              <div class="cate-pic"><img src="../Me/images/index/Alarming Pin.jpg" alt="Alarming Pin"></div>
                               <div class="cate-detail">
                                 <div class="cate-text">
                                   <h3 class="">PRODUCTS</h3>
@@ -370,7 +370,7 @@ var _hmt = _hmt || [];
                           </li>
                           <li class="swiper-slide" style="width: 383px;">
                               <a class="pro-item pro-cate-531107" href="product-531104-1.html?value=RFID_Hard_Tag" target="_self" title="RFID EAS Spiders">
-                              <div class="cate-pic"><img src="/ME313/webapp/Me/images/index/RFID Spiders.jpg" alt="RFID EAS Spiders"></div>
+                              <div class="cate-pic"><img src="../Me/images/index/RFID Spiders.jpg" alt="RFID EAS Spiders"></div>
                               <div class="cate-detail">
                                 <div class="cate-text">
                                   <h3 class="">PRODUCTS</h3>
@@ -407,7 +407,7 @@ var _hmt = _hmt || [];
 </div></div>
 <div id="laymod_1018885" data-moduleid="Join" data-parentid="2543" data-panel="Join23" class="clearfix Join Join23 module-section module-v mod_m" style="margin: 0px 0px 0px 0px ;padding:  0px 0px 0px 0px ;"><div class="module-section-inner"><div id="lq-join-yf">
     <div class="smail-banner" style="margin-bottom:79px;"><!---->
-        <div class="banner_content" style="background:url(/ME313/webapp/Me/images/sef_1.jpg);width: 100%;height: 600px" >
+        <div class="banner_content" style="background:url(../Me/images/sef_1.jpg);width: 100%;height: 600px" >
             <div class="container pc-contain">
                 <div class="row">
                    <div class="join-block" style="margin-top: 60px;">
@@ -461,7 +461,7 @@ To meet increasing demand, we will re-build new factory buildings. With New Buil
         <ul class="nav_ul">
           <li id="nav_f_logo" class="col-md-6">
             <a href="index.jsp" title="AIKE TECHNOLOGY" class="">
-            <img src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY" border="0" class="show"><!--logo2.png-->
+            <img src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY" border="0" class="show"><!--logo2.png-->
             </a>
           </li>
           <li id="nav_contacts" class="col-xs-12 col-sm-12 col-md-6" >
@@ -559,7 +559,7 @@ To meet increasing demand, we will re-build new factory buildings. With New Buil
                   <p>COPYRIGHT：AIKE TECHNOLOGY</p>
                 </div>
               </div>
-              <a href="" target="_blank" rel="nofollow" style="background:url(/ME313/webapp/Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>
+              <a href="" target="_blank" rel="nofollow" style="background:url(../Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>
             </div>
           </div>
         </div>
@@ -636,7 +636,7 @@ To meet increasing demand, we will re-build new factory buildings. With New Buil
         }); 
       } 
   </script>
-	<script id="js-core" type="text/javascript" src="/ME313/webapp/Me/style/pc/scripts/merge_v2.js?v=1703227203200"></script>
+	<script id="js-core" type="text/javascript" src="../Me/style/pc/scripts/merge_v2.js?v=1703227203200"></script>
 	<script type="text/javascript"> 
       Est.cookie("originPage", document.domain); 
       var UA = navigator.userAgent, isAndroid = /android|adr/gi.test(UA), 
@@ -705,8 +705,8 @@ function sreachOnclic(id){
         alert(key);
     });*/
 </script>
-<script src="/ME313/webapp/Me/wechat/upload/swiper4.0.7.js" type="text/javascript" defer="defer"></script>
-<script src="/ME313/webapp/Me/wechat/upload/swiper.lxk.js" type="text/javascript" defer="defer"></script>
-<script src="/ME313/webapp/Me/wechat/upload/swiper4.0.7.js" type="text/javascript" defer="defer"></script>
-<script src="/ME313/webapp/Me/wechat/upload/jquery-rebox.js" type="text/javascript" defer="defer"></script>
+<script src="../Me/wechat/upload/swiper4.0.7.js" type="text/javascript" defer="defer"></script>
+<script src="../Me/wechat/upload/swiper.lxk.js" type="text/javascript" defer="defer"></script>
+<script src="../Me/wechat/upload/swiper4.0.7.js" type="text/javascript" defer="defer"></script>
+<script src="../Me/wechat/upload/jquery-rebox.js" type="text/javascript" defer="defer"></script>
 </body></html>

@@ -9,12 +9,12 @@
 <meta name="keywords" content="EAS,Hard Tag,Pencil Tag,Ink Tag,Slipper Tag,Bottle Tag,Optical Tag,Other Tags,Alarming Tag "/>
 <meta id="meta-description" name="description" content="EAS,Hard Tag,Pencil Tag,Ink Tag,Slipper Tag,Bottle Tag,Optical Tag,Other Tags,Alarming Tag ">
 <meta id="meta-description" name="description" content="Wenzhou Aike Technology Co., Ltd. founded in 1999, had been an EAS tag manufacturer for 18 years. In 2017, we started manufacturing EAS alarm solutions, including spiders and cable locks. In 2019 we started new business EAS+RFID, as RFID is the new trend. Until 2023, EAS+RFID has occupies 58% business shares.tel：+86-18358585167"/>
-<link rel="shortcut icon" href="/ME313/webapp/Me/images/ECO.jpg">
-<link rel="stylesheet" type="text/css" href="/ME313/webapp/Me/style/pc/styles/default/merge_v2.css?v=1703227203200">
+<link rel="shortcut icon" href="../Me/images/ECO.jpg">
+<link rel="stylesheet" type="text/css" href="../Me/style/pc/styles/default/merge_v2.css?v=1703227203200">
 <style>
 body{font-family:"Microsoft Yahei","PingHei","Lucida Grande","Lucida Sans Unicode";}
 </style>
-<link rel="stylesheet" type="text/css" href="/ME313/webapp/Me/style/10461/company/company_pc.css?hash=-1074434678">
+<link rel="stylesheet" type="text/css" href="../Me/style/10461/company/company_pc.css?hash=-1074434678">
 <style id="styleContent" data-laymodLinkList="5"></style>
 <style id='mobiStyleModule1018973'></style><style id='mobiStyleModule1018974'></style><style id='mobiStyleModule1018975'></style><style id='mobiStyleModule1018978'></style><style id='mobiStyleModule1018976'></style>
 <script>
@@ -48,7 +48,7 @@ var _hmt = _hmt || [];
       <div class="uplogo hidden-xs hidden-sm">
         <div class="container">
           <div class="up_logo">
-            <a class="logo" href="index.jsp" title="AIKE TECHNOLOGY"><img  src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
+            <a class="logo" href="index.jsp" title="AIKE TECHNOLOGY"><img  src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
           </div>
           <!-- PC顶部联系方式 -->
           <div class="nav_contact ">
@@ -60,7 +60,7 @@ var _hmt = _hmt || [];
           <!-- PC顶部搜索 -->
           <div class="nav_search   " >
             <div class="search_wrap">
-              <input id="search_input1" list="datalist_sreach1" type="text" class="search_text"  data-nothing="请输入搜索内容！" placeholder="搜索">
+              <input id="search_input1" list="datalist_sreach1" type="text" class="search_text"  data-nothing="请输入搜索内容！" placeholder="search">
               <datalist id="datalist_sreach1"  >
                 <option >Hard Tag</option>
                 <option >Pencil Tag</option>
@@ -76,7 +76,7 @@ var _hmt = _hmt || [];
                 <option >RFID Hard Tag</option>
                 <option >RFID Alarming Tag</option>
               </datalist>
-              <a class="search_btn" href="javascript:sreachOnclic('search_input1');" >搜索</a>
+              <a class="search_btn" href="javascript:sreachOnclic('search_input1');" >search</a>
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@ var _hmt = _hmt || [];
           <div class="nav_search">
             <i class="nav_click iconfont"></i>
             <div class="nav_search_list search_wrap">
-              <input id="search_input2" list="datalist_sreach2" type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="搜索">
+              <input id="search_input2" list="datalist_sreach2" type="text" class="search_text" data-nothing="请输入搜索内容！" placeholder="search">
               <datalist id="datalist_sreach2"  >
                 <option >Hard Tag</option>
                 <option >Pencil Tag</option>
@@ -110,7 +110,7 @@ var _hmt = _hmt || [];
                 <option >RFID Hard Tag</option>
                 <option >RFID Alarming Tag</option>
               </datalist>
-              <a class="search_btn" href="javascript:sreachOnclic('search_input2');">搜索</a>
+              <a class="search_btn" href="javascript:sreachOnclic('search_input2');">search</a>
               <span></span>
             </div>
           </div>
@@ -129,13 +129,13 @@ var _hmt = _hmt || [];
           </div>
         </a>
         <!-- 手机logo -->
-        <a class="logo" href="index.jsp"><img  src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
+        <a class="logo" href="index.jsp"><img  src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY"></a>
         <div class="nav_search ">
             <i class="nav_click iconfont"></i>
         </div>
         <!-- 手机搜索框打开关闭按钮 -->
         <div class="nav_search_list search_wrap">
-            <input id="search_input3" list="datalist_sreach3" type="text" class="search_text"  data-nothing="请输入搜索内容！" placeholder="搜索">
+            <input id="search_input3" list="datalist_sreach3" type="text" class="search_text"  data-nothing="请输入搜索内容！" placeholder="search">
             <datalist id="datalist_sreach3"  >
               <option >Hard Tag</option>
               <option >Pencil Tag</option>
@@ -151,7 +151,7 @@ var _hmt = _hmt || [];
               <option >RFID Hard Tag</option>
               <option >RFID Alarming Tag</option>
             </datalist>
-            <a class="search_btn" href="javascript:sreachOnclic('search_input3');" >搜索</a>
+            <a class="search_btn" href="javascript:sreachOnclic('search_input3');" >search</a>
         </div>
       </div>
     </div>
@@ -181,7 +181,7 @@ var _hmt = _hmt || [];
   <i style="display:none;" ></i>
   <i  style="display:none;"></i>
   <div class="bg_img bg "  style="background:url(
-    /ME313/webapp/Me/images/Company/NEW_BUILDING.jpg
+    ../Me/images/Company/NEW_BUILDING.jpg
   ) no-repeat center;background-size:cover;background-attachment:scroll;">
   </div>
   <i  style="display:none;"></i>
@@ -269,14 +269,138 @@ var _hmt = _hmt || [];
             </p>
             <p><br></p>
             <div class="b_img">
-              <img class="show"   src="/ME313/webapp/Me/images/Company/Office.jpg" alt="AIKE TECHNOLOGY">
+              <img class="show"   src="../Me/images/Company/Office.jpg" alt="AIKE TECHNOLOGY">
             </div>
+            <p><br></p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;">Our production Line includes:</span></p>
+                </div>
+              </span>
+            </p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> EAS Hard Tag</span></p>
+                </div>
+              </span>
+            </p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> EAS Alarming Tag</span></p>
+                </div>
+              </span>
+            </p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> DR Label</span></p>
+                </div>
+              </span>
+            </p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> RFID EAS Tag</span></p>
+                </div>
+              </span>
+            </p>
+            <p>
+              <span class="ql-size-15" style="line-height: 2.2;">
+                <div class="h4 " >
+                  <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> EAS Detacher</span></p>
+                </div>
+              </span>
+            </p>
+            <p><br></p>
+<!----------------------------------------------------start----------------------------------------------------->
+              <p>
+                <div class="b_img">
+                  <img class="show"   src="../Me/images/Company/RFID Hard Tag Production.jpg" alt="AIKE TECHNOLOGY">
+                </div>
+              </p>
+              <p><br></p>
+              <p>
+                <span class="ql-size-15" style="line-height: 2.2;">
+                  In regards to RFID, we independently researched and developed Automatic Coding Machine, Automatic Labeling Machine, Automatic Testing Machine. Our daily capacity for RFID-based EAS hard tag is 100,000 pieces. We can raise our capacity in short time if our customers need.
+                </span>
+              </p>
+              <p>
+                <span class="ql-size-15" style="line-height: 2.2;">
+                  Our RFID workshop is open to only our visiting customers, as all machines are researched and developed independently by ourselves.
+                  We have our own Mold Workshop. This helps our customers to design new products more easily and quickly. We focus now on highly designed and customized solutions.
+                </span>
+              </p>
+              <p><br></p>
+              <p>
+                  <div class="b_img">
+                    <img class="show"   src="../Me/images/Company/Mold Workshop.jpg" alt="AIKE TECHNOLOGY">
+                  </div>
+              </p>
+              <p><br></p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;">We can design and customize:</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> Locks</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> Housings</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> Detachers</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>.</span> RFID Inlays</span></p>
+                  </div>
+              </p>
+              <p><br></p>
+              <p>
+                  <div class="b_img">
+                    <img src="../Me/images/Company/EAS Hard Tag Production.jpg"  >
+                  </div>
+              </p>
+              <p>
+                  <div class="b_img">
+                    <img src="../Me/images/Company/Parts Warehouse.jpg"  >
+                  </div>
+              </p>
+              <p><br></p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>☆</span> Aike invested 20% profit in New Production Research and Development.</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>☆</span> Aike allocates 30% profit to all employees.</span></p>
+                  </div>
+              </p>
+              <p>
+                  <div class="h4 " >
+                    <p><span style="color: rgb(106 106 106);font-size: 15px;"><span>☆</span> Aike donates 10% profit to charity organizations.</span></p>
+                  </div>
+              </p>
+
+<!----------------------------------------------------end----------------------------------------------------------->
+
           </div>
         </div>
       </div>
-      <div class="company_ser ">
-        <span  style="display:none;"></span>
-        <div class="h4 " >
+    <!--  <div class="company_ser ">
+        <span  style="display:none;"></span>-->
+        <!--<div class="h4 " >
           <p><span style="color: rgb(0, 0, 0);font-size: 15px;">Our production Line includes:</span></p>
         </div>
         <div class="h4 " >
@@ -293,64 +417,14 @@ var _hmt = _hmt || [];
         </div>
         <div class="h4 " >
           <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> EAS Detacher</span></p>
-        </div>
-        <div class="third_con " >
-          <!--<p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              <span>.</span>EAS Hard Tag
-            </span>
-          </p>
-          <p><br></p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              <span>.</span>EAS Alarming Tag
-            </span>
-          </p>
-          <p><br></p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              <span>.</span>DR Label
-            </span>
-          </p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              <span>.</span>RFID EAS Tag
-            </span>
-          </p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              <span>.</span>EAS Detacher
-            </span>
-          </p>
-          <p><br></p>-->
-          <p>
-            <div class="b_img">
-              <img class="show"   src="/ME313/webapp/Me/images/Company/RFID Hard Tag Production.jpg" alt="AIKE TECHNOLOGY">
-            </div>
-          </p>
-          <p><br></p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              In regards to RFID, we independently researched and developed Automatic Coding Machine, Automatic Labeling Machine, Automatic Testing Machine. Our daily capacity for RFID-based EAS hard tag is 100,000 pieces. We can raise our capacity in short time if our customers need.
-            </span>
-          </p>
-          <p>
-            <span class="ql-size-15" style="line-height: 2.2;">
-              Our RFID workshop is open to only our visiting customers, as all machines are researched and developed independently by ourselves.
-              We have our own Mold Workshop. This helps our customers to design new products more easily and quickly. We focus now on highly designed and customized solutions.
-            </span>
-          </p>
-          <p><br></p>
-          <p>
-            <div class="b_img">
-              <img class="show"   src="/ME313/webapp/Me/images/Company/Mold Workshop.jpg" alt="AIKE TECHNOLOGY">
-            </div>
-        </p>
-        <p><br></p>
-        </div>
-      </div>
-      <div class="company_wen " >
-        <div class="h4 " >
+        </div>-->
+   <!--    <div class="third_con " >
+          
+
+        </div>--> 
+     <!-- </div>-->
+      <!--<div class="company_wen " >-->
+        <!--<div class="h4 " >
           <p><span style="color: rgb(0, 0, 0);font-size: 15px;">We can design and customize:</span></p>
         </div>
         <div class="h4 " >
@@ -364,8 +438,8 @@ var _hmt = _hmt || [];
         </div>
         <div class="h4 " >
           <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> RFID Inlays</span></p>
-        </div>
-        <div class="fourth_con " >
+        </div>-->
+       <!-- <div class="fourth_con " >-->
           <!--<p>
             <span class="ql-size-15" style="line-height: 2.2;">
               <span>.</span> Locks
@@ -389,11 +463,11 @@ var _hmt = _hmt || [];
               <span>.</span> RFID Inlays
             </span>
           </p>-->
-          <p>
-            <img src="/ME313/webapp/Me/images/Company/EAS Hard Tag Production.jpg"  >
+        <!--  <p>
+            <img src="../Me/images/Company/EAS Hard Tag Production.jpg"  >
           </p>
           <p>
-            <img src="/ME313/webapp/Me/images/Company/Parts Warehouse.jpg"  >
+            <img src="../Me/images/Company/Parts Warehouse.jpg"  >
           </p>
           <p><br></p>
           <div class="h4 " >
@@ -404,7 +478,7 @@ var _hmt = _hmt || [];
           </div>
           <div class="h4 " >
             <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>☆</span> Aike donates 10% profit to charity organizations.</span></p>
-          </div>
+          </div>-->
           <!--<p>
             <span class="ql-size-15" style="line-height: 2.2;">
               <span>☆</span> Aike invested 20% profit in New Production Research and Development.
@@ -422,8 +496,8 @@ var _hmt = _hmt || [];
               <span>☆</span> Aike donates 10% profit to charity organizations.
             </span>
           </p>-->
-        </div>
-      </div>
+       <!-- </div>-->
+      <!--</div>-->
       <!--<div class="company_culture ">
         <div class="swiper_company_15">
           <div class="swiper-wrapper">
@@ -497,7 +571,7 @@ var _hmt = _hmt || [];
         <ul class="nav_ul">
           <li id="nav_f_logo" class="col-md-6">
             <a href="index.jsp" title="AIKE TECHNOLOGY" class="">
-            <img src="/ME313/webapp/Me/images/akw_logo.png" alt="AIKE TECHNOLOGY" border="0" class="show"><!--logo2.png-->
+            <img src="../Me/images/akw_logo.png" alt="AIKE TECHNOLOGY" border="0" class="show"><!--logo2.png-->
             </a>
           </li>
           <li id="nav_contacts" class="col-xs-12 col-sm-12 col-md-6" >
@@ -582,7 +656,7 @@ var _hmt = _hmt || [];
                   <p>COPYRIGHT：AIKE TECHNOLOGY</p>
                 </div>
               </div>
-              <a href="" target="_blank" rel="nofollow" style="background:url(/ME313/webapp/Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>
+              <a href="" target="_blank" rel="nofollow" style="background:url(../Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>
             </div>
           </div>
         </div>
@@ -595,7 +669,7 @@ var _hmt = _hmt || [];
 	<div id="app-account"></div>
 	<script type="text/javascript">window.lanGlobal = {productAmountModifiedSuccess:'商品数量修改成功',homePage:'店铺主页',unpublishTimeEnd:'秒杀活动已结束',navcompany:'公司简介',collectionSuccess:'收藏成功',moneyNotEnough:'会员余额不足,请换其它方式支付',lock:'账号被锁',deliveryTypeRequired:'配送方式不能为空',verCodeError:'验证码错误',orderVoided:'此订单已经作废',pageBack:'返回上页',unpublishTimeNotStart:'此商口未开始抢购',loading:'加载中',soldOut:'产品已下架， 请在购物车里删除此产品, 详细：',memberLimit:'会员限购， 请修改购买数量',loginSuccess:'登录成功',orderCompleted:'此订单已经完成',oldPasswordRequired:'请输入原始密码',confirmPassword_required:'请再次输入密码',difference:'两次输入密码不匹配',clearCart:'您确定要清空购物车吗？',username_invalid:'请输入由数字和26个英文字母组成的账号',emailRequired:'请输入您的邮箱!',contentRequired:'请输入内容!',notMatch:'发送失败， 内容不符合要求',submitting:'提交中',invlidCode:'验证码错误',memberCenter:'会员中心',navregister:'会员注册',faqRequired:'请输入您想提问的？',orderNotExist:'订单不存在',sendError:'发送失败',login:'请先登录',receiverError:'收货地址错误',passwordRequired:'请输入密码',navnews:'新闻动态',codeRequired:'请输入验证码',titleRequired:'标题不能为空',isSaveReceiverRequired:'是否保存不允许为空',receiverSetLimit:'只允许添加最多10项收货地址',deleteSuccess:'您的删除已成功',emptyCart:'购物车目前没有加入任何商品',navlogin:'会员登录',notPass:'账号密码错误',orderDeleteFailed:'删除失败！只能对【已作废】的订单进行删除',close:'本站注册功能现已关闭',navcontact:'联系我们',noCartProduct:'购物车目前没有加入任何商品',loginOutSuccess:'登出成功',balanceNotEnough:'会员余额不足， 请换其它方式',notOnline:'此商品未上架',store:'库存不足',productAmountModifiedError:'商品数量修改失败',orderBuildError:'生成订单失败，请重新操作',phoneMobileChoose:'联系电话、联系手机必须填写其中一项',cartSuccess:'添加购物车成功',technicalSupport:'机汇网微商城提供技术支持',phoneMobileSelect:'联系电话、联系手机必须填写其中一项',usernamePsdError:'用户名或密码错误',paymentTypeRequired:'请选择支付方式',username_required:'请输入用户名',changeUsername:'该用户不可用,请换其它用户名',orderAcepted:'订单已受理',areaPathError:'地区错误',receiverRequired:'收货地址路径不熊为空',buyLimit:'秒杀商品每个账号只能购买一次',limit:'每个会员活动期间只限购1件',handleSuccess:'您的操作已成功',orderReadFailed:'订单读取失败',beian:'经营许可证编号',chooseAgain:'请重新选择',member_forbid:'账号被禁',clearCartItemListSuccess:'清空购物车成功',password_invalid:'请输入以字母开头，长度在6~18之间，只能包含字母、数字和下划线的密码',messageSendSuccess:'留言已发送',navmessage:'在线留言',success:'操作成功',removeCart:'您确定要移除此商品吗？',navproduct:'产品展示',companyRequired:'请输入您的公司',notLogin:'请先登录',visitAfterLogin:'登录后可见',addressRequired:'联系地址不允许为空',forbid:'已禁止留言',errorParam:'参数错误',emailInvilid:'请输入正确邮箱',goToCartPage:'3秒后，将进入购物车页',orderSnText:'订单号',areaPathRequired:'地区不允许为空',navindex:'首页',receiverNameRequired:'收货人不允许为空',clearCartItemListError:'清空购物车失败',paymentConfigError:'付款方式错误',nickNameRequired:'请输入昵称',registerSuccess:'会员注册成功',navmember:'会员中心',nameRequired:'请输入姓名',minLimit:'不符合最低购买数量, 详细：',receiverTypeRequired:'收货方式不能为空',zipCodeRequired:'邮编不允许为空',telephoneRequired:'请输入您的联系方式',password_required:'请输入密码',};</script>
 	<script type="text/javascript"> window.posterId = ""; window.enterpriseId = "Enterp_0000000000000000000073526"; window.userId = "User_000000000000000000000075327"; window.entName = "缙云县佑吉泰电子有限公司"; window.grade = "00"; window.layoutId = "10461"; window.lanId = "1";window.page = "company"; window.v = '2016-08-31';window.itemId="";  window.isMobile = false; window.isDesign = window.location.href.indexOf('/site/design') > -1 ? true : false; window.bindAddress = "jyyjtdz.com"; window.webinfoLayoutEdit = ""; window.plugin = function(plugins, options){ Est.each(plugins.split(','), function(name){ if (name === 'Plugin'){return;} Bbase.MODULE[name] = 'modules/plugins/controllers/'+name+'.js'; seajs.config({ alias: Bbase.MODULE }); seajs.use([name], function(Plugin){ try{ app.addView(name + options.id, new Plugin(options)).start(); }catch(e){ console.log(e); } }); }); } </script>
-	<script id="js-core" type="text/javascript" src="/ME313/webapp/Me/style/pc/scripts/merge_v2.js?v=1703227203200"></script>
+	<script id="js-core" type="text/javascript" src="../Me/style/pc/scripts/merge_v2.js?v=1703227203200"></script>
 	<script type="text/javascript"> Est.cookie("originPage", document.domain); var UA = navigator.userAgent, isAndroid = /android|adr/gi.test(UA), isIos = /iphone|ipod|ipad/gi.test(UA) && !isAndroid; window.isMobile = navigator.userAgent.toLowerCase().match(/(iPad|ipod|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|win ce)/i) != null; </script>
 		<script> window.plugin('PluginNavHead657_pc',{ 'id': 'laymod_1018973','isMobile':window.isMobile, 'isDesign' : window.isDesign,'moduleId': '4330', 'lanId': '1'  ,'lan': {"search":"搜索","placeholder":"搜索","search_nothing":"请输入搜索内容！"}  }); </script>
 		<script> window.plugin('PluginBreakNav54_pc',{ 'id': 'laymod_1018975','isMobile':window.isMobile, 'isDesign' : window.isDesign,'moduleId': '4148', 'lanId': '1'  ,'lan': {"search_nothing":"请输入搜索内容","bread_location":"当前位置"}  }); </script>
