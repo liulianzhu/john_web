@@ -1333,17 +1333,17 @@ width:100%;
   top:50%;
   right:0;
   margin:-16px 0 0 0;
-  -moz-border-radius: 16px
-  -khtml-border-radius: 16px
-  -webkit-border-radius: 16px
-  border-radius: 16px
-  -moz-border-radius-bottomleft:16px
-  -moz-border-radius-bottomright:16px
-  -khtml-border-radius: 16px
-  -webkit-border-bottom-left-radius:16px
-  -webkit-border-bottom-right-radius: 16px
-  border-bottom-left-radius: 16px
-  border-bottom-right-radius: 16px
+  -moz-border-radius: 16px;
+  -khtml-border-radius: 16px;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+  -moz-border-radius-bottomleft:16px;
+  -moz-border-radius-bottomright:16px;
+  -khtml-border-radius: 16px;
+  -webkit-border-bottom-left-radius:16px;
+  -webkit-border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
 }
 #laymod_1018975 .nav_m_search form {
   display:block;
@@ -1818,7 +1818,7 @@ a, a:hover, a:active, a:visited, a:focus {
   line-height:1.5;
 }
 #laymod_1018976 #nav_contacts>ul>li.f_email a {
-  color:rgb(62 183 138)
+  color:rgb(62 183 138);
   text-decoration:underline;
   opacity: 1;
   -moz-opacity: 1;
@@ -1848,7 +1848,7 @@ a, a:hover, a:active, a:visited, a:focus {
   font-size:16px;
   display:block;
   width:100%;
-  color:rgb(62 183 138)
+  color:rgb(62 183 138);
   font-style:italic;
   opacity: 1;
   -moz-opacity: 1;
