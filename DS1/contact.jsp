@@ -384,7 +384,7 @@ var _hmt = _hmt || [];
               <div class="copyname ">
                 <i ></i>
                 <div >
-                  <p>版权所有：AIKE TECHNOLOGY</p>
+                  <p>COPYRIGHT：AIKE TECHNOLOGY</p>
                 </div>
               </div>
               <a href="" target="_blank" rel="nofollow" style="background:url(/ME313/webapp/Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>

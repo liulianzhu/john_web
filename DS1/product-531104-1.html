@@ -1356,7 +1356,7 @@ var _hmt = _hmt || [];
               <div class="copyname ">
                 <i ></i>
                 <div >
-                  <p>版权所有：艾可科技</p>
+                  <p>COPYRIGHT：AIKE TECHNOLOGY</p>
                 </div>
               </div>
               <!--<a href="https://beian.miit.gov.cn" target="_blank" rel="nofollow">浙ICP备2023020792号</a>-->
@@ -1506,6 +1506,14 @@ var _hmt = _hmt || [];
       /*var elementA_s = document.getElementById(aID);
       elementA_s.style.color = "#000000";
       elementA_s.style.fontWeight = "bold";*/
+
+      // 创建一个新的URL对象
+      const newUrl = new URL(window.location.href);
+      // 修改参数
+      newUrl.searchParams.set('value', name);
+      // 使用history.pushState更新浏览器历史记录
+      history.pushState({}, '', newUrl.href);
+      
     }
 
     //页面

@@ -277,22 +277,22 @@ var _hmt = _hmt || [];
       <div class="company_ser ">
         <span  style="display:none;"></span>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);">Our production Line includes:</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;">Our production Line includes:</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> EAS Hard Tag</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> EAS Hard Tag</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> EAS Alarming Tag</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> EAS Alarming Tag</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> DR Label</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> DR Label</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> RFID EAS Tag</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> RFID EAS Tag</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> EAS Detacher</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> EAS Detacher</span></p>
         </div>
         <div class="third_con " >
           <!--<p>
@@ -349,21 +349,21 @@ var _hmt = _hmt || [];
         <p><br></p>
         </div>
       </div>
-      <div class="company_wen ">
+      <div class="company_wen " >
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);">We can design and customize:</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;">We can design and customize:</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> Locks</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> Locks</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> Housings</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> Housings</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> Detachers</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> Detachers</span></p>
         </div>
         <div class="h4 " >
-          <p><span style="color: rgb(0, 0, 0);"><span>.</span> RFID Inlays</span></p>
+          <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>.</span> RFID Inlays</span></p>
         </div>
         <div class="fourth_con " >
           <!--<p>
@@ -397,13 +397,13 @@ var _hmt = _hmt || [];
           </p>
           <p><br></p>
           <div class="h4 " >
-            <p><span style="color: rgb(0, 0, 0);"><span>☆</span> Aike invested 20% profit in New Production Research and Development.</span></p>
+            <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>☆</span> Aike invested 20% profit in New Production Research and Development.</span></p>
           </div>
           <div class="h4 " >
-            <p><span style="color: rgb(0, 0, 0);"><span>☆</span> Aike allocates 30% profit to all employees.</span></p>
+            <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>☆</span> Aike allocates 30% profit to all employees.</span></p>
           </div>
           <div class="h4 " >
-            <p><span style="color: rgb(0, 0, 0);"><span>☆</span> Aike donates 10% profit to charity organizations.</span></p>
+            <p><span style="color: rgb(0, 0, 0);font-size: 15px;"><span>☆</span> Aike donates 10% profit to charity organizations.</span></p>
           </div>
           <!--<p>
             <span class="ql-size-15" style="line-height: 2.2;">
@@ -579,7 +579,7 @@ var _hmt = _hmt || [];
               <div class="copyname ">
                 <i ></i>
                 <div >
-                  <p>版权所有：AIKE TECHNOLOGY</p>
+                  <p>COPYRIGHT：AIKE TECHNOLOGY</p>
                 </div>
               </div>
               <a href="" target="_blank" rel="nofollow" style="background:url(/ME313/webapp/Me/images/logo3.png) no-repeat left center;padding:0 0 0 16px;"></a>
